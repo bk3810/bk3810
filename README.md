@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 Embedded Linux
+- Network Video Recorder
+- RTSP
+- Android, iOS
+- Windows
+- Python, C/C++
+- Unity, cocos2d-X
+
+
 <!--
 **bk3810/bk3810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
