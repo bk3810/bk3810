@@ -10,7 +10,7 @@
 
 
 <img src="https://img.shields.io/badge/Language-A8B9CC?style=flat&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Language-00599C?style=flat&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/Language-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Language-239120?style=flat&logo=C Sharp&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Cocos2dX-55C2E1?style=flat&logo=cocos&logoColor=white"/>
