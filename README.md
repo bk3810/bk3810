@@ -9,6 +9,9 @@
 - Unity, cocos2d-X
 
 
+<img src="https://img.shields.io/badge/Language-A8B9CC?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cocos2dX-55C2E1?style=flat&logo=C&logoColor=white"/>
+
 <!--
 **bk3810/bk3810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
