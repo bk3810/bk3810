@@ -10,7 +10,11 @@
 
 
 <img src="https://img.shields.io/badge/Language-A8B9CC?style=flat&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cocos2dX-55C2E1?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Language-00599C?style=flat&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/Language-239120?style=flat&logo=C Sharp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cocos2dX-55C2E1?style=flat&logo=cocos&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=white"/>
 
 <!--
 **bk3810/bk3810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
